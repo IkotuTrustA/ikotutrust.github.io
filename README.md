@@ -5,14 +5,14 @@ Template to build a versatile blog forked from [jeffreytse](https://github.com/j
 ## Personalize the website
 
 1. Go to [_data/defaults.yml](_data/defaults.yml) and change the values for
-    - heading
-    - subheading
+    - heading: Tech Expert Academy
+    - subheading: Land my first tech job in six months
 2. Go to [_data/translate_langs.yml](_data/translate_langs.yml) to customize the options for automatic translations by adding or removing entries.
 3. To change the background image
     1. upload the file (ideally *.jpeg*) to [assets/images/banners/](assets/images/banners/)
     2. change the entry for *banner* in [index.html](index.html) such that it points to your image of choice
 4. Go to [_config.yml](_config.yml) and change the values for
-    1. title
+    1. title: 
     2. email
     3. author
     4. copyright
